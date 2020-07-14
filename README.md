@@ -4,5 +4,5 @@ There are two models that are developed in Netlogo software, to use the model fi
 Netlogo download https://ccl.northwestern.edu/netlogo/ 
 
 ## 2. Go to one of the following folders for access to models
-1. COVID-19 MODELING EXAMPLE (ACADEMIC USE ONLY)
-2. Compare network structures 
+1. COVID
+2. Networks
